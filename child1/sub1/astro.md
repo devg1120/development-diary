@@ -2,4 +2,6 @@
 
 [DOG](./dog.svg)
 
+![DOG](./dog.svg)
+
 
