@@ -4,7 +4,7 @@
 
 ![DOG](./dog.svg)
 
-![DOG](/child1/sub1/dog.svg)
+![DOG](/development-diary/child1/sub1/dog.svg)
 
 
 
